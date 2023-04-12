@@ -64,9 +64,9 @@ intField1:
   label: Cancel Cleanup Time
   name: cancel_cleanup_time
   value: 15
-lastRun: 2023-04-10 11:47:26 +0700
-lastRunTime: 48
-lastRunTimeDisplay: 48 Seconds
+lastRun: 2023-04-12 15:50:50 +0700
+lastRunTime: 42
+lastRunTimeDisplay: 42 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -117,8 +117,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 4
-runTime: 172
+runCount: 5
+runTime: 214
 runtimeDir: null
 simulation: false
 startHeld: false
