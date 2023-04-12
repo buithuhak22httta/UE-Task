@@ -9,8 +9,8 @@ agentCluster: null
 agentClusterVar: null
 agentVar: null
 autoCleanup: false
-avgRunTime: 25
-avgRunTimeDisplay: 25 Seconds
+avgRunTime: 26
+avgRunTimeDisplay: 26 Seconds
 booleanField1:
   label: UC SSL Certificate  Verification
   name: uc_ssl_cert_verification
@@ -116,9 +116,9 @@ largeTextField3:
   label: Remove UC Definitions List
   name: remove_uc_definitions_list
   value: null
-lastRun: 2023-04-12 16:17:23 +0700
-lastRunTime: 29
-lastRunTimeDisplay: 29 Seconds
+lastRun: 2023-04-12 17:02:04 +0700
+lastRunTime: 27
+lastRunTimeDisplay: 27 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -169,8 +169,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 3
-runTime: 75
+runCount: 4
+runTime: 102
 runtimeDir: null
 simulation: false
 startHeld: false
