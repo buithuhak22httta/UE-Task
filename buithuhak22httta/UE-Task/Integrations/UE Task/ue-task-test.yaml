@@ -20,7 +20,7 @@ choiceField1:
 choiceField2:
   label: Primary Choice
   name: primary_choice_field
-  value: Stop
+  value: Start
 choiceField3:
   label: Secondary Choice
   name: secondary_choice_field
@@ -129,7 +129,7 @@ template: UE Task
 textField4:
   label: Word
   name: word
-  value: BTHITB
+  value: ABCD
 timeZonePref: -- System Default --
 twDelayAmount: null
 twDelayDuration: 00:00:00:00
