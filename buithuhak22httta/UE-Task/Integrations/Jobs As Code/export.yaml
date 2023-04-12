@@ -9,6 +9,8 @@ agentCluster: null
 agentClusterVar: null
 agentVar: null
 autoCleanup: false
+avgRunTime: 23
+avgRunTimeDisplay: 23 Seconds
 booleanField1:
   label: UC SSL Certificate  Verification
   name: uc_ssl_cert_verification
@@ -100,7 +102,7 @@ exitCodeText: null
 exitCodes: '0'
 exportReleaseLevel: 7.4.0.0
 exportTable: ops_task_universal
-firstRun: ''
+firstRun: 2023-04-12 15:26:00 +0700
 holdResources: false
 largeTextField1:
   label: Add UC Definitions List
@@ -114,7 +116,9 @@ largeTextField3:
   label: Remove UC Definitions List
   name: remove_uc_definitions_list
   value: null
-lastRun: ''
+lastRun: 2023-04-12 15:26:00 +0700
+lastRunTime: 23
+lastRunTimeDisplay: 23 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -132,6 +136,10 @@ lsEnabled: false
 lsNthAmount: 5
 lsTime: 00:00
 lsType: Time
+maxRunTime: 23
+maxRunTimeDisplay: 23 Seconds
+minRunTime: 23
+minRunTimeDisplay: 23 Seconds
 name: export
 notes: []
 opswiseGroups: []
@@ -161,8 +169,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 0
-runTime: 0
+runCount: 1
+runTime: 23
 runtimeDir: null
 simulation: false
 startHeld: false
