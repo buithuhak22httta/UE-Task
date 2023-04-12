@@ -88,7 +88,7 @@ maxRunTime: 48
 maxRunTimeDisplay: 48 Seconds
 minRunTime: 41
 minRunTimeDisplay: 41 Seconds
-name: update_name_ue-task-test
+name: ue-task-test
 notes: []
 opswiseGroups: []
 outputConditionOperator: '='
@@ -129,7 +129,7 @@ template: UE Task
 textField4:
   label: Word
   name: word
-  value: ABCD_to_DCBA
+  value: ABCD
 timeZonePref: -- System Default --
 twDelayAmount: null
 twDelayDuration: 00:00:00:00
