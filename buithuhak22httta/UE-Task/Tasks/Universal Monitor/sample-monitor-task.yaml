@@ -35,7 +35,7 @@ filter:
   - name: filelist
     operator: CONTAINS
     type: criterion
-    value: test_update.txt
+    value: update_test.txt
   logicalOperator: And
 firstRun: ''
 holdResources: false
@@ -98,5 +98,5 @@ twWorkflowOnly: -- System Default --
 type: taskUniversalMonitor
 userEstimatedDuration: null
 variables: []
-version: 1
+version: 2
 virtualResources: []
