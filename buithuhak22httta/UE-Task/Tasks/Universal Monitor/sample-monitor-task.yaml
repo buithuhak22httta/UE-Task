@@ -35,7 +35,7 @@ filter:
   - name: filelist
     operator: CONTAINS
     type: criterion
-    value: test.txt
+    value: test_update.txt
   logicalOperator: And
 firstRun: ''
 holdResources: false
