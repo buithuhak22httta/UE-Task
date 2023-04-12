@@ -116,7 +116,7 @@ largeTextField3:
   label: Remove UC Definitions List
   name: remove_uc_definitions_list
   value: null
-lastRun: 2023-04-12 15:26:00 +0700
+lastRun: 2023-04-12 15:57:19 +0700
 lastRunTime: 23
 lastRunTimeDisplay: 23 Seconds
 lfDayConstraint: None
@@ -169,8 +169,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 1
-runTime: 23
+runCount: 2
+runTime: 46
 runtimeDir: null
 simulation: false
 startHeld: false
