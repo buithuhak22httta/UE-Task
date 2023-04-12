@@ -20,7 +20,7 @@ choiceField1:
 choiceField2:
   label: Primary Choice
   name: primary_choice_field
-  value: Start
+  value: Stop
 choiceField3:
   label: Secondary Choice
   name: secondary_choice_field
