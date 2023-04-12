@@ -57,7 +57,7 @@ lsEnabled: false
 lsNthAmount: 5
 lsTime: 00:00
 lsType: Time
-name: sample-monitor-task
+name: update_sample-monitor-task
 notes: []
 opswiseGroups: []
 relativeTimeFrom: 00:00
