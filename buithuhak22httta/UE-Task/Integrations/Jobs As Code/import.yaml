@@ -9,8 +9,8 @@ agentCluster: null
 agentClusterVar: null
 agentVar: null
 autoCleanup: false
-avgRunTime: 8
-avgRunTimeDisplay: 8 Seconds
+avgRunTime: 9
+avgRunTimeDisplay: 9 Seconds
 booleanField1:
   label: UC SSL Certificate  Verification
   name: uc_ssl_cert_verification
@@ -111,14 +111,14 @@ largeTextField1:
 largeTextField2:
   label: Modify UC Definitions List
   name: modify_uc_definitions_list
-  value: null
+  value: buithuhak22httta/UE-Task/Integrations/UE Task/ue-task-test.yaml
 largeTextField3:
   label: Remove UC Definitions List
   name: remove_uc_definitions_list
   value: null
-lastRun: 2023-04-12 17:14:48 +0700
-lastRunTime: 8
-lastRunTimeDisplay: 8 Seconds
+lastRun: 2023-04-12 17:29:31 +0700
+lastRunTime: 15
+lastRunTimeDisplay: 15 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -136,8 +136,8 @@ lsEnabled: false
 lsNthAmount: 5
 lsTime: 00:00
 lsType: Time
-maxRunTime: 10
-maxRunTimeDisplay: 10 Seconds
+maxRunTime: 15
+maxRunTimeDisplay: 15 Seconds
 minRunTime: 6
 minRunTimeDisplay: 6 Seconds
 name: import
@@ -169,8 +169,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 6
-runTime: 46
+runCount: 7
+runTime: 61
 runtimeDir: null
 simulation: false
 startHeld: false
@@ -215,6 +215,6 @@ twWorkflowOnly: -- System Default --
 type: taskUniversal
 userEstimatedDuration: null
 variables: []
-version: 1
+version: 2
 virtualResources: []
 waitForOutput: false
