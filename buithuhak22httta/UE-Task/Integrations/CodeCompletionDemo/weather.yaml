@@ -104,7 +104,7 @@ maxRunTime: 2
 maxRunTimeDisplay: 2 Seconds
 minRunTime: 2
 minRunTimeDisplay: 2 Seconds
-name: weather
+name: weather_update
 notes: []
 opswiseGroups: []
 outputConditionOperator: '='
